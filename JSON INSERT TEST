@@ -1,0 +1,50 @@
+{
+  "idcontact": 0,
+  "name": "BRUNO",
+  "document": "333.888.666-55",
+  "genderPerson": "M",
+  "dateBirth": "1986-12-28",
+  "addresses": [
+    {
+      "idaddress": 0,
+      "idcontact": 0,
+      "country": "55",
+      "state": "SP",
+      "city": "RIBEIRÃO PRETO",
+      "address": "AV TESTE ",
+      "number": 655,
+      "complement": "IGUATMEI"
+    },
+    {
+      "idaddress": 0,
+      "idcontact": 0,
+      "country": "55",
+      "state": "SP",
+      "city": "RIO PRETO",
+      "address": "AV MARIA ",
+      "number": 333,
+      "complement": "IIIII"
+    }
+  ]
+}
+///////////////////////
+
+{
+  "idcontact": 0,
+  "name": "MERCADANTES LTDA",
+  "document": "68.792.077/0001-85",
+  "genderPerson": "F",
+  "dateBirth": "1990-01-13",
+  "addresses": [
+    {
+      "idaddress": 0,
+      "idcontact": 0,
+      "country": "55",
+      "state": "SP",
+      "city": "SÃO PAULO",
+      "address": "AV PAULISTA ",
+      "number": 54,
+      "complement": "CENTRO"
+    }
+  ]
+}
