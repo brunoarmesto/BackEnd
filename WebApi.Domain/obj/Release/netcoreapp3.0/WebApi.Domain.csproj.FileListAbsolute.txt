@@ -1,0 +1,9 @@
+D:\DESENV\HORIZON\BackEnd\WebApi.Domain\bin\Release\netcoreapp3.0\WebApi.Domain.deps.json
+D:\DESENV\HORIZON\BackEnd\WebApi.Domain\bin\Release\netcoreapp3.0\WebApi.Domain.dll
+D:\DESENV\HORIZON\BackEnd\WebApi.Domain\bin\Release\netcoreapp3.0\WebApi.Domain.pdb
+D:\DESENV\HORIZON\BackEnd\WebApi.Domain\obj\Release\netcoreapp3.0\WebApi.Domain.csprojAssemblyReference.cache
+D:\DESENV\HORIZON\BackEnd\WebApi.Domain\obj\Release\netcoreapp3.0\WebApi.Domain.csproj.CoreCompileInputs.cache
+D:\DESENV\HORIZON\BackEnd\WebApi.Domain\obj\Release\netcoreapp3.0\WebApi.Domain.AssemblyInfoInputs.cache
+D:\DESENV\HORIZON\BackEnd\WebApi.Domain\obj\Release\netcoreapp3.0\WebApi.Domain.AssemblyInfo.cs
+D:\DESENV\HORIZON\BackEnd\WebApi.Domain\obj\Release\netcoreapp3.0\WebApi.Domain.dll
+D:\DESENV\HORIZON\BackEnd\WebApi.Domain\obj\Release\netcoreapp3.0\WebApi.Domain.pdb

@@ -1,0 +1,302 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Service\\WebApi.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Domain\\WebApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Domain\\WebApi.Domain.csproj",
+        "projectName": "WebApi.Domain",
+        "projectPath": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Domain\\WebApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\BRUNO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BRUNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "c:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Repository\\WebApi.Repository.csproj": {
+                "projectPath": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Repository\\WebApi.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Infra\\WebApi.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Infra\\WebApi.Infra.csproj",
+        "projectName": "WebApi.Infra",
+        "projectPath": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Infra\\WebApi.Infra.csproj",
+        "packagesPath": "C:\\Users\\BRUNO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BRUNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "c:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Repository\\WebApi.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Repository\\WebApi.Repository.csproj",
+        "projectName": "WebApi.Repository",
+        "projectPath": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Repository\\WebApi.Repository.csproj",
+        "packagesPath": "C:\\Users\\BRUNO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BRUNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "c:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Infra\\WebApi.Infra.csproj": {
+                "projectPath": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Infra\\WebApi.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Service\\WebApi.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Service\\WebApi.Service.csproj",
+        "projectName": "WebApi.Service",
+        "projectPath": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Service\\WebApi.Service.csproj",
+        "packagesPath": "C:\\Users\\BRUNO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BRUNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "c:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Domain\\WebApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\BRUNO\\Desktop\\ARQUIVOS\\BackEnd\\WebApi.Domain\\WebApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

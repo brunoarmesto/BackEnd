@@ -1,0 +1,15 @@
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\bin\Release\netcoreapp3.0\WebApi.Repository.dll.config
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\bin\Release\netcoreapp3.0\WebApi.Repository.deps.json
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\bin\Release\netcoreapp3.0\WebApi.Repository.dll
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\bin\Release\netcoreapp3.0\WebApi.Repository.pdb
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\bin\Release\netcoreapp3.0\WebApi.Domain.dll
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\bin\Release\netcoreapp3.0\WebApi.Infra.dll
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\bin\Release\netcoreapp3.0\WebApi.Domain.pdb
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\bin\Release\netcoreapp3.0\WebApi.Infra.pdb
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\obj\Release\netcoreapp3.0\WebApi.Repository.csprojAssemblyReference.cache
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\obj\Release\netcoreapp3.0\WebApi.Repository.csproj.CoreCompileInputs.cache
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\obj\Release\netcoreapp3.0\WebApi.Repository.AssemblyInfoInputs.cache
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\obj\Release\netcoreapp3.0\WebApi.Repository.AssemblyInfo.cs
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\obj\Release\netcoreapp3.0\WebApi.Repository.csproj.CopyComplete
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\obj\Release\netcoreapp3.0\WebApi.Repository.dll
+D:\DESENV\HORIZON\BackEnd\WebApi.Repository\obj\Release\netcoreapp3.0\WebApi.Repository.pdb

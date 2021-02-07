@@ -1,0 +1,12 @@
+D:\DESENV\HORIZON\BackEnd\WebApi.Service\bin\Release\netcoreapp3.0\WebApi.Service.deps.json
+D:\DESENV\HORIZON\BackEnd\WebApi.Service\bin\Release\netcoreapp3.0\WebApi.Service.dll
+D:\DESENV\HORIZON\BackEnd\WebApi.Service\bin\Release\netcoreapp3.0\WebApi.Service.pdb
+D:\DESENV\HORIZON\BackEnd\WebApi.Service\bin\Release\netcoreapp3.0\WebApi.Domain.dll
+D:\DESENV\HORIZON\BackEnd\WebApi.Service\bin\Release\netcoreapp3.0\WebApi.Domain.pdb
+D:\DESENV\HORIZON\BackEnd\WebApi.Service\obj\Release\netcoreapp3.0\WebApi.Service.csprojAssemblyReference.cache
+D:\DESENV\HORIZON\BackEnd\WebApi.Service\obj\Release\netcoreapp3.0\WebApi.Service.csproj.CoreCompileInputs.cache
+D:\DESENV\HORIZON\BackEnd\WebApi.Service\obj\Release\netcoreapp3.0\WebApi.Service.AssemblyInfoInputs.cache
+D:\DESENV\HORIZON\BackEnd\WebApi.Service\obj\Release\netcoreapp3.0\WebApi.Service.AssemblyInfo.cs
+D:\DESENV\HORIZON\BackEnd\WebApi.Service\obj\Release\netcoreapp3.0\WebApi.Service.csproj.CopyComplete
+D:\DESENV\HORIZON\BackEnd\WebApi.Service\obj\Release\netcoreapp3.0\WebApi.Service.dll
+D:\DESENV\HORIZON\BackEnd\WebApi.Service\obj\Release\netcoreapp3.0\WebApi.Service.pdb
